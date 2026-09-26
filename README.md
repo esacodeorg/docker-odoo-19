@@ -12,7 +12,7 @@ Make sure to have docker and docker-compose installed in your system.
 Start by pulling the code from the repository
 
 ```bash
-git clone https://github.com/esaCodeBJ/odoo-19-template.git
+git clone https://github.com/esacodeorg/docker-odoo-19
 ```
 
 > Note that you only need to run this command once

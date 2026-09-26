@@ -1,5 +1,5 @@
 FROM odoo:19
-LABEL MAINTAINER="contact@esacode.org"
+LABEL MAINTAINER="support@esacode.org"
 
 USER root
 
